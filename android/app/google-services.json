@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "82764585193",
+    "project_id": "drink-2ce20",
+    "storage_bucket": "drink-2ce20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82764585193:android:9a540d832a5d38ba85b878",
+        "android_client_info": {
+          "package_name": "com.appsnado.drink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82764585193-1gia3ttk0ar1nlf5b0b220929hbkdqlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.drink",
+            "certificate_hash": "5c8b7fbd6c09ccbdcd88da05e60a892d4452db8a"
+          }
+        },
+        {
+          "client_id": "82764585193-tcehtomb9vpo3smr1n9o2de4s1mnom47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkofQL1opAiZCrgQFoijjj4697jS8pmUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82764585193-tcehtomb9vpo3smr1n9o2de4s1mnom47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82764585193-u4jm8fvp1gd0n6te4s8m3fsf6edokngu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.drink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
